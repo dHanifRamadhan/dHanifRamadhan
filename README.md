@@ -4,7 +4,7 @@ Selamat datang di profil GitHub saya! Saya seorang programmer. Di sini, Anda bis
 
 ## Tentang Saya
 
-- 🔭 Saat ini saya sedang mengerjakan **[sebutkan proyek atau teknologi yang sedang dikerjakan]**.
+- 🔭 Saat ini saya sedang mengerjakan **Api untuk project rancangan saya**.
 - 🌱 Saat ini saya sedang mempelajari **C# Language dengan bersama-an mempelajari framework .NET Core untuk Web Api**.
 - 🤔 Saat ini saya sedang mengeksplorasi **C# Language dan .NET Core**.
 
