@@ -29,9 +29,9 @@ Beberapa proyek utama yang telah saya kerjakan:
 
 ## Hubungi Saya
 
-- 💼 LinkedIn: [https://www.linkedin.com/in/hanif-ramadhan-b83479279]
-- 📧 Email: [d.haniframadhan@gmail.com]
-- 🐦 X: [https://x.com/dHanifRamadhan]
+- 💼 [LinkedIn](https://www.linkedin.com/in/hanif-ramadhan-b83479279)
+- 📧 [Email](d.haniframadhan@gmail.com)
+- 🐦 [X](https://x.com/dHanifRamadhan)
 
 Jangan ragu untuk menghubungi saya jika Anda ingin berkolaborasi atau sekadar berbincang soal teknologi!
 
@@ -39,5 +39,5 @@ Jangan ragu untuk menghubungi saya jika Anda ingin berkolaborasi atau sekadar be
 
 ### Statistik
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhaniframadhan&show_icons=true&hide_title=true&theme=apprentice)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhaniframadhan&show_icons=true&hide_title=true&theme=blue_navy)
 
