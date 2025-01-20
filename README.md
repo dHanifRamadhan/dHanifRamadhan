@@ -23,7 +23,7 @@ Berikut adalah beberapa alat dan teknologi yang saya kuasai:
 
 Beberapa proyek utama yang telah saya kerjakan:
 
-- **[Library]**: [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhaniframadhan&repo=HanifLibrary&hide_border=true&bg_color=0d1117&text_color=f0f6fc)](https://github.com/dhaniframadhan/HanifLibrary)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhaniframadhan&repo=HanifLibrary&hide_border=true&bg_color=0d1117&text_color=f0f6fc)](https://github.com/dhaniframadhan/HanifLibrary)
 
 ## Hubungi Saya
 
