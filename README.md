@@ -39,5 +39,5 @@ Jangan ragu untuk menghubungi saya jika Anda ingin berkolaborasi atau sekadar be
 
 ### Statistik
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhaniframadhan&show_icons=true&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhaniframadhan&show_icons=true&hide_title=true&theme=dark)
 
