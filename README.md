@@ -31,8 +31,6 @@ Beberapa proyek utama yang telah saya kerjakan:
 - 📧 [Email](d.haniframadhan@gmail.com)
 - 🐦 [X](https://x.com/dHanifRamadhan)
 
-Jangan ragu untuk menghubungi saya jika Anda ingin berkolaborasi atau sekadar berbincang soal teknologi!
-
 ---
 
 ### Statistik
