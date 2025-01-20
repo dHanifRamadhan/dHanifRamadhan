@@ -23,9 +23,7 @@ Berikut adalah beberapa alat dan teknologi yang saya kuasai:
 
 Beberapa proyek utama yang telah saya kerjakan:
 
-- **[Nama Proyek 1]**: [Deskripsi singkat proyek dan apa yang telah Anda capai]
-- **[Nama Proyek 2]**: [Deskripsi singkat proyek dan apa yang telah Anda capai]
-- **[Nama Proyek 3]**: [Deskripsi singkat proyek dan apa yang telah Anda capai]
+- **[Nama Proyek 1]**: -
 
 ## Hubungi Saya
 
