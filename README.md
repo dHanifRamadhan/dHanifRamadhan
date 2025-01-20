@@ -39,5 +39,5 @@ Jangan ragu untuk menghubungi saya jika Anda ingin berkolaborasi atau sekadar be
 
 ### Statistik
 
-![dHanif Ramadhan GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhaniframadhan&show_icons=true&bg_color=0d1117&hide_title=true&rank_icon=percentile&text_color=f0f6fc&hide_border=true)
+![dHanif Ramadhan GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhaniframadhan&show_icons=true&bg_color=0d1117&hide_title=true&rank_icon=percentile&text_color=f0f6fc&hide_border=true&locale=id)
 
