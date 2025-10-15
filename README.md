@@ -15,7 +15,7 @@ Berikut adalah beberapa alat dan teknologi yang saya kuasai:
 
 ## Proyek
 
-Beberapa proyek utama yang telah saya kerjakan:
+Beberapa proyek utama yang sedang saya kerjakan:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhaniframadhan&repo=familia-bot&hide_border=true&bg_color=0d1117&text_color=f0f6fc)](https://github.com/dhaniframadhan/familia-bot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhaniframadhan&repo=runic-archives&hide_border=true&bg_color=0d1117&text_color=f0f6fc)](https://github.com/dHanifRamadhan/runic-archives)
